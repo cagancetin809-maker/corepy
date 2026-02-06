@@ -1,5 +1,6 @@
 import asyncio
 import discord
+import os
 from discord.ext import commands
 from discord import app_commands
 
@@ -323,4 +324,5 @@ async def on_ready():
 
 TOKEN = os.getenv("MTQ2OTM1MTY2MDU3NTkxNjA4NA.G4_HQb.V8V84x6AOwbgllKQJt-ziUEile7qP2WMUnxxTM")
 bot.run("MTQ2OTM1MTY2MDU3NTkxNjA4NA.G4_HQb.V8V84x6AOwbgllKQJt-ziUEile7qP2WMUnxxTM")
+
 
