@@ -322,7 +322,8 @@ async def on_ready():
 #              RUN BOT
 # ==========================================
 
-TOKEN = os.getenv("MTQ2OTM1MTY2MDU3NTkxNjA4NA.G4_HQb.V8V84x6AOwbgllKQJt-ziUEile7qP2WMUnxxTM")
-bot.run("MTQ2OTM1MTY2MDU3NTkxNjA4NA.G4_HQb.V8V84x6AOwbgllKQJt-ziUEile7qP2WMUnxxTM")
+TOKEN = os.getenv("MTQ2ODYzOTQwNTU3NjI5MDMyNA.GXEuZ3.oEWhkmbNAWGxBr0cQCrSZ6u175gBftfAnzYXF8")
+bot.run("MTQ2ODYzOTQwNTU3NjI5MDMyNA.GXEuZ3.oEWhkmbNAWGxBr0cQCrSZ6u175gBftfAnzYXF8")
+
 
 
